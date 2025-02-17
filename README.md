@@ -8,4 +8,4 @@
 
 📫 Reach me at: budarnykh.a@yandex.ru
 
-<script src="https://gist.github.com/s-shivangi/7b54ec766cf446cafeb83882b590174d.js"></script>
+<img src="<img src="https://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="400">
