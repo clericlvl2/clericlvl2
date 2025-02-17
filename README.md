@@ -1,13 +1,12 @@
-# 👋 Hello, I'm Artem
-🚀 Frontend Developer | React & TypeScript Enthusiast  
+# 👋 Greetings, I'm Artem!
+🚀 Frontend Developer | React & TypeScript Enthusiast | JetBrains Products Enjoyer
 🔧 Currently working on: [Your Project]  
-📫 Reach me at: [Your Email] | [Twitter Handle]  
+🧠 Learning now: [Prisma](https://www.prisma.io/), [Socket.IO](https://socket.io/)
+📫 Reach me at: budarnykh.a@yandex.ru
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![Nyan Cat](https://media.giphy.com/media/4aDDr1sJgXbBm/giphy.gif)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+<video autoplay loop muted playsinline>
+  <source src="https://example.com/path/to/nyan-cat.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
