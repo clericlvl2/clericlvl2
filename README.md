@@ -5,6 +5,8 @@
 
 - :telescope: Crafting **[Collaborative Canvas](https://github.com/clericlvl2/collaborative-canvas)**<br>
 
+- :orange_book: Reading **["Grokking Algorithm"](https://www.oreilly.com/library/view/grokking-algorithms/9781617292231/)**
+
 - :floppy_disk: Learning **[Neovim](https://neovim.io/)** (btw)
 
 - :mailbox: Connect with me -> **budarnykh.a@yandex.ru**
