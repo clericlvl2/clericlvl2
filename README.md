@@ -1,13 +1,16 @@
 <h1 align="left">Hi 👋, I'm Artem!</h1>
-<h3 align="left">Frontend Developer | React & TypeScript</h3>
+
+Siberian frontend developer bringing ideas to life with React & TypeScript. Passionate about clean code, great UX, and my cat, Sushka.
 
 - :telescope: Current project: [Collaborative Canvas](https://github.com/clericlvl2/collaborative-canvas)
+
 - :mailbox: Email: budarnykh.a@yandex.ru
+
 - :floppy_disk: Learning vim btw
 
 ###
 
-<h3 align="left">I code with:</h3>
+<h2 align="left">I code with:</h3>
 
 ###
 
