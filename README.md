@@ -1,4 +1,4 @@
-# 👋 Greetings, I'm Artem!
+# 👋 Hi!
 
 🚀 Frontend Developer | React & TypeScript Enthusiast | JetBrains Products Enjoyer
 
