@@ -8,4 +8,4 @@
 
 📫 Reach me at: budarnykh.a@yandex.ru
 
-<img src="<img src="https://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="400">
+<img src="https://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="40">
