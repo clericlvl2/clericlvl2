@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Artem!</h1>
-
-**Siberian frontend developer bringing ideas to life with React & TypeScript.<br>Passionate about clean code, great UX, and my cat, Sushka.**
+<p align="left">Siberian frontend developer bringing ideas to life with React & TypeScript.<br>Passionate about clean code, great UX, and my cat, Sushka.</p>
 
 <h2 align="left">About me</h2>
 
