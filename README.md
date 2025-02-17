@@ -1,18 +1,18 @@
 <h1 align="left">Hi 👋, I'm Artem!</h1>
 
-Siberian frontend developer bringing ideas to life with React & TypeScript. Passionate about clean code, great UX, and my cat, Sushka.
+**Siberian frontend developer bringing ideas to life with React & TypeScript.<br>Passionate about clean code, great UX, and my cat, Sushka.**
 
-<h2 align="left">About me</h3>
+<h2 align="left">About me</h2>
 
-:telescope: Crafting [Collaborative Canvas](https://github.com/clericlvl2/collaborative-canvas)<br>
+- :telescope: Crafting **[Collaborative Canvas](https://github.com/clericlvl2/collaborative-canvas)**<br>
 
-:floppy_disk: Learning [Neovim](https://neovim.io/) (btw)
+- :floppy_disk: Learning **[Neovim](https://neovim.io/)** (btw)
 
-:mailbox: Connect with me -> budarnykh.a@yandex.ru
+- :mailbox: Connect with me -> **budarnykh.a@yandex.ru**
 
 ###
 
-<h2 align="left">I code with</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
