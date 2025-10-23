@@ -5,7 +5,7 @@ Siberian frontend developer bringing ideas to life with React & TypeScript.<br>P
 
 - :telescope: Crafting **[Collaborative Canvas](https://github.com/clericlvl2/collaborative-canvas)**<br>
 
-- :orange_book: Reading **[Grokking Algorithm](https://www.oreilly.com/library/view/grokking-algorithms/9781617292231/)**
+- :orange_book: Reading **[Crafting Interpreters](https://craftinginterpreters.com/)**
 
 - :floppy_disk: Learning **[Neovim](https://neovim.io/)** (btw)
 
@@ -16,6 +16,8 @@ Siberian frontend developer bringing ideas to life with React & TypeScript.<br>P
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript logo" />](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript)
 &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript logo" >](https://www.typescriptlang.org/)
+&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="nextjs logo" />](https://nextjs.org/)
 &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react logo" >](https://react.dev/)
 &nbsp;
